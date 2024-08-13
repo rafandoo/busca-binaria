@@ -28,10 +28,13 @@ Este projeto demonstra a implementação da resolucao do problema da busca biná
 Para executar este projeto, siga estes passos:
 
 1. Clone o repositório para sua máquina local.
+
 2.1. Abra o projeto em seu ambiente de desenvolvimento Java.
+
 2.2. Execute o arquivo `Main.java` para ver a demonstração.
 
 3.1. Abra o projeto em seu ambiente de desenvolvimento C++.
+
 3.2. Execute o arquivo `main.cpp` para ver a dem
 
 
